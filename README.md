@@ -8,7 +8,7 @@
 - [EMBC 2020](https://github.com/lujoba/Documents/blob/master/articles/EMBC%202020/EMBC20_0764_MS.pdf)
 
 ## Curriculum
-  - [CV](https://github.com/lujoba/Documents/blob/master/curriculum/CV.pdf)
+  - [CV](https://github.com/lujoba/Publications/blob/master/curriculum/CV___Luiz_Barbosa.pdf)
 
 ## Master Thesis
 - [Thesis](https://github.com/lujoba/Documents/blob/master/master_thesis/thesis/Electromyographic_Signal_Processing_Using_Machine_Learning_and_Entropy.pdf)
