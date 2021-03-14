@@ -1,4 +1,4 @@
-# Documents
+# Publications
 
 ## Articles
 - [IBERDISCA 2017](https://github.com/lujoba/Documents/blob/master/articles/IBERDISCA%202017/IBERDISCAP2017_Exos4GDL.pdf)
